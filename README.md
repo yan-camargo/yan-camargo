@@ -25,4 +25,3 @@ Construo orquestrando agentes de IA, no estilo *vibe coding*. Eu defino o que o 
 
 - **Agentes de código:** Claude Code e Gemini
 - **IA dentro do app:** LLMs locais com Ollama
-- **Base dos cursos:** noções de Java, redes e nuvem (AWS)
