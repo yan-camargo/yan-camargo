@@ -13,7 +13,7 @@
 
 ## Featured project
 
-### [Poker MTT BI](https://github.com/yancamargo988-afk/poker-mtt-bi-showcase/blob/main/README.en.md)
+### [Poker MTT BI](https://github.com/yan-camargo/poker-mtt-bi-showcase/blob/main/README.en.md)
 
 The app I use every day to track my poker tournaments: dashboards, the team's finances and a local AI assistant (Qwen) that answers my questions, records my withdrawals and warns me when something doesn't add up.
 

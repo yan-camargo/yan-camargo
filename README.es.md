@@ -13,7 +13,7 @@
 
 ## Proyecto destacado
 
-### [Poker MTT BI](https://github.com/yancamargo988-afk/poker-mtt-bi-showcase/blob/main/README.es.md)
+### [Poker MTT BI](https://github.com/yan-camargo/poker-mtt-bi-showcase/blob/main/README.es.md)
 
 La app que uso todos los días para seguir mis torneos de póker: paneles, las finanzas del equipo y un asistente con IA local (Qwen) que responde mis preguntas, registra mis retiros y me avisa cuando algo no cuadra.
 
