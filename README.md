@@ -6,7 +6,7 @@
 
 **Ciência da Computação · Uninter**. Gosto de construir apps que eu mesmo uso, com IA no meio.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yan-ca%C3%AA-camargo-38b1002a1/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yancaecamargo)
 [![E-mail](https://img.shields.io/badge/E--mail-EA4335?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=yancamargo988@gmail.com)
 
 </div>
